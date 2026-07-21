@@ -1,3 +1,3 @@
 # hellow-world
 this is my first repo<br>
-author: me
+author: me and my firend
